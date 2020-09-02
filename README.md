@@ -1,2 +1,2 @@
 # springboot-gradle
-一个springboot+springcloud+gradle的小demo
+一个用idea创建的springboot+springcloud+gradle的小demo
