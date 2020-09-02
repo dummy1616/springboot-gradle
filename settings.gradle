@@ -1,0 +1,6 @@
+rootProject.name = 'springboot-gradle'
+include 'common'
+include 'eureka'
+include 'test'
+include 'user'
+
